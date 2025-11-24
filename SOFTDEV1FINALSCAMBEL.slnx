@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="SOFTDEV1FINALSCAMBEL/SOFTDEV1FINALSCAMBEL.csproj" Id="0ab39486-1da3-42ce-a2fd-f65b0ee5ab27">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
